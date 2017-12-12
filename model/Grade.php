@@ -8,5 +8,6 @@
  */
 class Grade
 {
-
+	public $test;
+	public $student;
 }

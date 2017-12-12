@@ -8,5 +8,8 @@
  */
 class Promotion
 {
-
+	public $name;
+	public $subjectsList;
+	public $testsList;
+	public $studentsList;
 }

@@ -8,5 +8,7 @@
  */
 class Authorization
 {
-
+	public $name;
+	public $fonctionality;
+	public $rolesList;
 }

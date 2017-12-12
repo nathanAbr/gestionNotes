@@ -8,5 +8,9 @@
  */
 class Subject
 {
-
+	public $label;
+	public $description;
+	public $teachersList;
+	public $testsList;
+	public $promotionsList;
 }

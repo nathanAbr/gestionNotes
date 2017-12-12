@@ -8,5 +8,8 @@
  */
 class Message
 {
-
+	public $from_user;
+	public $to_user;
+	public $send_date;
+	public $content;
 }

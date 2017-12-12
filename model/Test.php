@@ -8,5 +8,5 @@
  */
 class Test
 {
-
+	public $subject;
 }
