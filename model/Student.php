@@ -1,11 +1,14 @@
 <?php
-
+namespace model\user;
 /**
  * Created by PhpStorm.
  * User: Nathan
  * Date: 11/12/2017
  * Time: 13:13
  */
+
+include "User.php";
+
 class Student extends User
 {
 	public $gradesList;

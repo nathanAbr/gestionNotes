@@ -1,5 +1,5 @@
 <?php
-
+namespace model\authorization;
 /**
  * Created by PhpStorm.
  * User: Nathan

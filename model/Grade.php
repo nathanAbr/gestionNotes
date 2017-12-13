@@ -1,5 +1,5 @@
 <?php
-
+namespace model\courses;
 /**
  * Created by PhpStorm.
  * User: Nathan

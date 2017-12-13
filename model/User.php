@@ -1,5 +1,5 @@
 <?php
-
+namespace model\user;
 /**
  * Created by PhpStorm.
  * User: Nathan
